@@ -1,0 +1,14 @@
+div#blueid{
+    background-color: blue !important;
+}
+div#blackid{
+    background-color: black;
+}
+
+body p{
+    color: pink;
+}
+
+div#blueid{
+    background-color: green;
+}
